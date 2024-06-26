@@ -395,7 +395,7 @@ main {
 .sidebar.active .sidebar-info_more {
   opacity: 1;
   visibility: visible;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
 }
 
 .contacts-list {
